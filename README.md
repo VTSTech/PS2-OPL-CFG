@@ -10,7 +10,7 @@ Get the latest daily build of OPL here https://akuhak.github.io/test_build/
 
 Currently contains:
 
-All compatability mode configs from OPL-CL Project (sx.sytes.net/oplcl)
+All compatibility mode configs from OPL-CL Project (sx.sytes.net/oplcl)
 
 All Titles for all regions NTSC-U NTSC-J & PAL. Maybe very few missing.
 
