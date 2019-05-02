@@ -16,4 +16,4 @@ All Titles for all regions NTSC-U NTSC-J & PAL. Maybe very few missing.
 
 Still needs: Release Dates, Genre, Description, Players, Aspect and other infos.
 
-8,604 Game ID Configurations as of v0.0.1-r06
+13,619 Game ID Configurations as of v0.0.1-r09
